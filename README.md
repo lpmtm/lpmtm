@@ -1,4 +1,4 @@
-
+## Hi! I'm Caroline Lopes.
 
 <!--
 **lpmtm/lpmtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/lpmtm/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lpmtm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Caroline github stats" /> 
+  </a> <a href="https://github.com/lpmtm/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/? 
+  username=lpmtm&layout=compact&theme=buefy&hide_border=true" /></a> 
+</div>
