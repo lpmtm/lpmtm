@@ -15,16 +15,5 @@
 
 ##
 
-<div>
- <a href="https://www.linkedin.com/in/caroline-lopes-martins-2911b734b/">
-  <img align="right" alt="Caroline Lopes | Linkdin" width="21px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the badge&logo=linkedin&logoColor=white"/>;
- </a>
- <a href="lpcarolinelopes@gmail.com">
-   <img align="right" alt="Caroline Lopes | Gmail" width="21px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>	
- </a>
- <a href="https://www.instagram.com/carol.lopees/">
-    <img align="right" alt="Caroline Lopes | Instagram" width="21px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
- </a>
-</div>
 
 
