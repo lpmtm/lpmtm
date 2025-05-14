@@ -1,6 +1,6 @@
 ## Hi! I'm Caroline Lopes.
 
-- I’m currently studying Computer Science at IESB.  
+- I’m currently studying computer science at IESB.  
 <div>
 <a href="https://github.com/lpmtm/github-readme-stats">
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmtm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" />
