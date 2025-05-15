@@ -29,5 +29,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lpmtm/lpmtm/output/github-contribution-grid-snake.svg?palette=dracula">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lpmtm/lpmtm/output/github-contribution-grid-snake.svg?palette=dracula">
 </picture>
-
-
