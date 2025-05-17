@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/lpmtm/github-readme-stats">
     <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmtm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" />
-    <img width="350em" src="https://github-readme-stats.vercel.app/api?username=lpmtm&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+    <img width="455em" height ="195em"src="https://github-readme-stats.vercel.app/api?username=lpmtm&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
 </div>  
 <div>
@@ -16,7 +16,7 @@
 
 ##  
 
-<h2>Minhas redes:  
+<h2>Social links:  
 <div>  
   <a href="https://www.linkedin.com/in/caroline-lopes-martins-2911b734b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:lpcarolinelopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
