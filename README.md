@@ -2,7 +2,7 @@
 
 👩‍💻 Sobre mim:  
 Olá! Me chamo Caroline Lopes, sou estudante de Ciência da Computação no IESB.  
-Tenho paixão por desenvolvimento web e estou sempre buscando aprender novas tecnologias. Atualmente estou focada em melhorar minhas habilidades em C, JavaScript, Python, Css e Html.
+Tenho interesse por desenvolvimento web e estou sempre buscando aprender novas tecnologias. Atualmente estou focada em melhorar minhas habilidades em C, JavaScript, Python, Css e Html. Tenho muita gana por banco de dados, desde modelagem até consultas otimizadas!
   
 ##
 
