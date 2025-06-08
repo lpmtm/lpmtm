@@ -1,16 +1,8 @@
-## Oi! eu sou a Caroline Lopes.
+## Oi! eu sou a Caroline Lopes. 
 
- ## 👩‍💻 Sobre mim
+👩‍💻 Sobre mim:  
 Olá! Me chamo Caroline Lopes, sou estudante de Ciência da Computação no IESB.
 Tenho paixão por desenvolvimento web e estou sempre buscando aprender novas tecnologias. Atualmente estou focada em melhorar minhas habilidades em C, JavaScript, Python, Css e Html.
-
-<div>
-  <a href="https://github.com/lpmtm/github-readme-stats">
-    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmtm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" />
-    <img width="455em" height ="195em"src="https://github-readme-stats.vercel.app/api?username=lpmtm&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  </a>
-</div> 
-<div>, Python
   
 ##
 
@@ -31,6 +23,15 @@ Tenho paixão por desenvolvimento web e estou sempre buscando aprender novas tec
 
 ##
 
+<div>
+  <a href="https://github.com/lpmtm/github-readme-stats">
+    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpmtm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60" />
+    <img width="455em" height ="195em"src="https://github-readme-stats.vercel.app/api?username=lpmtm&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  </a>
+</div> 
+
+##
+
 <h2> 🌐 Contatos:  
 <div>  
   <a href="https://www.linkedin.com/in/caroline-lopes-martins-2911b734b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -38,7 +39,6 @@ Tenho paixão por desenvolvimento web e estou sempre buscando aprender novas tec
   <a href="https://www.instagram.com/carol.lopees/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 </h2>
-
 
 
 <picture>
