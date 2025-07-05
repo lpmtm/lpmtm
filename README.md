@@ -1,25 +1,26 @@
 ## Olá! Me chamo Caroline Lopes.  
 
 🗨️ Sobre mim:  
-Sou estudante de Ciência da Computação no IESB, atualmente no terceiro semestre.  
+Sou estudante de Ciência da Computação no IESB, atualmente no quarto semestre.  
 Tenho interesse por desenvolvimento web e estou sempre buscando aprender novas tecnologias. Atualmente estou focada em melhorar minhas habilidades em C, JavaScript, Python, Css e Html. Tenho muita gana por banco de dados, desde modelagem até consultas otimizadas!
   
 ##
 
 🗂️ Tecnologias que uso:  
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></code>
-<code><img height="20" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></code>
-<code><img height="20" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"></code>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" style="height: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" style="height: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" style="height: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" style="height: 30px;">
 </div>
 
 ##  
 
 📚 Projetos:
 
-- [** Pagina Virada **](https://github.com/lpmtm/site_busca_livros.git) – Projeto para visualização de livros. 
-- [** Sistema de visualização de dados educacionais **](https://github.com/ianmelo1/Projeto-Integrador.git) – Sistema web voltado à visualização e gerenciamento de dados educacionais
+- [Pagina Virada ](https://github.com/lpmtm/site_busca_livros.git) – Projeto para visualização de livros. 
+- [Sistema de visualização de dados educacionais](https://github.com/ianmelo1/Projeto-Integrador.git) – Sistema web voltado à visualização e gerenciamento de dados educacionais.
 
 ##
 
