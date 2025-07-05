@@ -1,12 +1,12 @@
 ## Olá! Me chamo Caroline Lopes.  
 
-👩‍💻 Sobre mim:  
+🗨️ Sobre mim:  
 Sou estudante de Ciência da Computação no IESB, atualmente no terceiro semestre.  
 Tenho interesse por desenvolvimento web e estou sempre buscando aprender novas tecnologias. Atualmente estou focada em melhorar minhas habilidades em C, JavaScript, Python, Css e Html. Tenho muita gana por banco de dados, desde modelagem até consultas otimizadas!
   
 ##
 
-🛠️ Tecnologias que uso:  
+🗂️ Tecnologias que uso:  
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></code>
@@ -16,7 +16,7 @@ Tenho interesse por desenvolvimento web e estou sempre buscando aprender novas t
 
 ##  
 
-🚀 Projetos:
+📚 Projetos:
 
 - [** Pagina Virada **](https://github.com/lpmtm/site_busca_livros.git) – Projeto para visualização de livros. 
 - [** Sistema de visualização de dados educacionais **](https://github.com/ianmelo1/Projeto-Integrador.git) – Sistema web voltado à visualização e gerenciamento de dados educacionais
@@ -32,7 +32,7 @@ Tenho interesse por desenvolvimento web e estou sempre buscando aprender novas t
 
 ##
 
-🌐 Contatos:  
+📫 Contatos:  
 
   <a href="https://www.linkedin.com/in/caroline-lopes-martins-2911b734b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:lpcarolinelopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
