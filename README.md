@@ -1,23 +1,31 @@
 ## Olá! Me chamo Caroline Lopes.  
 
-🗨️ Sobre mim:  
-Sou estudante de Ciência da Computação no IESB, atualmente no quarto semestre.  
-Tenho interesse por desenvolvimento web e estou sempre buscando aprender novas tecnologias. Atualmente estou focada em melhorar minhas habilidades em C, JavaScript, Python, Css e Html. Tenho muita gana por banco de dados, desde modelagem até consultas otimizadas!
-  
-##
+### 🗨️ Sobre mim:  
+Sou estudante de Ciência da Computação no IESB, atualmente no quarto semestre. Tenho o objetivo de me tornar uma desenvolvedora Full-Stack. Com foco em construir soluções completas, estou aprimorando minhas habilidades em C, JavaScript, Python, HTML e CSS. Tenho um forte interesse em bancos de dados, com conhecimento em modelagem e otimização de consultas.
 
-🗂️ Tecnologias que uso:  
-
+## 🗂️ Tecnologias que uso:
+### Linguagens
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" style="height: 30px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" style="height: 30px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" style="height: 30px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" style="height: 30px;">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JAVASCRIPT" style="height: 40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" style="height: 40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" style="height: 40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" style="height: 40px;">
 </div>
 
-##  
+### Frameworks
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="DJANGO" style="height: 40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NODE.JS" style="height: 40px";>
+</div>
 
-📚 Projetos:
+### Bancos de dados
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MONGODB" style="height: 40px";>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" alt="MYSQL" style="height: 40px";>
+</div>
+
+
+## 📚 Projetos:
 
 - [Pagina Virada ](https://github.com/lpmtm/site_busca_livros.git) – Projeto para visualização de livros. 
 - [Sistema de visualização de dados educacionais](https://github.com/ianmelo1/Projeto-Integrador.git) – Sistema web voltado à visualização e gerenciamento de dados educacionais.
