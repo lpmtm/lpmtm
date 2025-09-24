@@ -1,7 +1,7 @@
 ## Olá! Me chamo Caroline Lopes.  
 
 ### 🗨️ Sobre mim:  
-Sou estudante de Ciência da Computação no IESB, atualmente no quarto semestre. Tenho o objetivo de me tornar uma desenvolvedora Full-Stack. Com foco em construir soluções completas, estou aprimorando minhas habilidades em C, JavaScript, Python, HTML e CSS. Tenho um forte interesse em bancos de dados, com conhecimento em modelagem e otimização de consultas.
+Estudante de Ciência da Computação no IESB, focada em desenvolvimento Front-End e Ciência de Dados. Meu objetivo é criar interfaces de usuário intuitivas e eficientes, enquanto aprofundo meus conhecimentos em análise e manipulação de dados para extrair insights significativos. Atualmente, estou aprimorando minhas habilidades em JavaScript, Python, HTML e CSS, com experiência em bancos de dados como MySQL e MongoDB. Além disso, estou estudando Django e as ferramentas de business intelligence Power BI e Power Automate.
 
 ## 🗂️ Tecnologias que uso:
 ### Linguagens
