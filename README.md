@@ -1,8 +1,5 @@
 ## Olá! Me chamo Caroline Lopes.  
 
-### 🗨️ Sobre mim:  
-Estudante de Ciência da Computação no IESB, focada em desenvolvimento Front-End e Ciência de Dados. Meu objetivo é criar interfaces de usuário intuitivas e eficientes, enquanto aprofundo meus conhecimentos em análise e manipulação de dados para extrair insights significativos. Atualmente, estou aprimorando minhas habilidades em JavaScript, Python, HTML e CSS, com experiência em bancos de dados como MySQL e MongoDB. Além disso, estou estudando Django e as ferramentas de business intelligence Power BI e Power Automate.
-
 ## 🗂️ Tecnologias que uso:
 ### Linguagens
 <div style="display: flex; gap: 10px; align-items: center;">
